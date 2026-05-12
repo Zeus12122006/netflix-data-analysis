@@ -87,17 +87,12 @@ Sử dụng `groupby` để:
 Mục tiêu của phân tích là tìm hiểu đặc điểm của các thể loại phim trên Netflix.
 
 Phân tích cho thấy phần lớn nội dung trên nền tảng này là Movie (chiếm ~70%), phản ánh chiến lược phát triển của Netflix và xu hướng hiện tại của người xem.
-
 Trước năm 2016 cho thấy sự cân bằng giữa 2 thể loại Movie và TV Show, nhưng từ 2016 đến 2019 là sự bùng nổ mạnh của thị trường phim điện ảnh với đỉnh điểm là hơn 1400 bộ phim được ra mắt trên nền tảng này. Song song đó TV Show vẫn có sự tăng trưởng nhất định.
-
 Từ năm 2019 trở về sau, dưới ảnh hưởng của đại dịch Covid-19, số lượng nội dung được phát hành trên Netflix giảm đáng kể. Tuy vậy Movie vẫn duy trì khoảng hơn 1000 nội dung mỗi năm, trong khi TV Show cũng giảm nhẹ ở giai đoạn 2021.
 
 Thời lượng trung bình qua các năm của các thể loại phim có sự khác biệt rõ rệt.
-
 Trước năm 2014, thời lượng trung bình của TV Show khá cao và tăng lên đến khoảng 4.5 mùa, cho thấy Netflix từng tập trung phát triển nhiều nội dung thuộc thể loại này. Trong khi đó Movie lại có sự dao động mạnh và chưa ổn định.
-
 Từ 2014 đến 2016 lại cho thấy xu hướng đối lập khi thời lượng trung bình của TV Show giảm đáng kể xuống còn khoảng 1.5 mùa, trong khi Movie bắt đầu ổn định hơn với thời lượng dao động khoảng 75–85 phút mỗi bộ.
-
 Từ năm 2016 trở đi là giai đoạn phát triển mạnh của Movie khi thời lượng tăng dần và ổn định hơn ở các năm sau. Bên cạnh đó, dù phát triển chậm hơn nhưng TV Show cũng bắt đầu tăng trở lại về thời lượng của các series phim.
 
 Từ các phân tích trên có thể thấy xu hướng phát triển chủ đạo hiện tại trên Netflix là Movie với thời lượng dài. Đồng thời TV Show với thời lượng dưới 3 mùa cũng đang xuất hiện ngày càng nhiều trên nền tảng.
